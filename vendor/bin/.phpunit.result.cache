@@ -1,0 +1,1 @@
+{"version":1,"defects":{"GumballMachineTest::testIfWheelWorks":3,"GumballMachineTest::testSetUp":5},"times":{"GumballMachineTest::testIfWheelWorks":0.016,"GumballMachineTest::testSetUp":0.015}}
